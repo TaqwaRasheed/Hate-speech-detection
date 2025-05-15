@@ -6,6 +6,7 @@ and extends it by evaluating additional machine learning models including XGBoos
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Objective](#objective)
 - [Models Implemented](#models-implemented)
