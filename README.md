@@ -25,6 +25,16 @@ The classification is based on textual features such as n-grams, part-of-speech 
 
 ---
 
+## Technologies Used
+
+- Python
+- Scikit-learn
+- NLTK
+- XGBoost
+- Jupyter Notebook 
+
+---
+
 ## Dataset
 
 - **Name**: [Hate Speech and Offensive Language Dataset](https://github.com/t-davidson/hate-speech-and-offensive-language)
